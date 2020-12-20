@@ -1,2 +1,2 @@
-## Welcom to github pages
+## Welcome to github pages
 # christmasdecoration
